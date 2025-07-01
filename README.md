@@ -1,2 +1,1 @@
-# cindobocil
-cindobocil
+# [cindobocil](https://cindobocil.pages.dev)
